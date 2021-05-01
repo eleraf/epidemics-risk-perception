@@ -1,5 +1,3 @@
-
-
 /*******************************************************************************
 Table 1
 Title: Country (Italy vs. Sweden) effect modification on the association between
@@ -145,6 +143,7 @@ clear all
 use "survey_august.dta"
 append using "survey_november.dta"
 
+*national policy response (Stringency index), area under the curve
 gen AUC = 9346.04/9346.04 if country ==0 & period==0
 replace AUC = 12453.41/9346.04 if country ==1 & period==0
 replace AUC = 13963.07/9346.04 if country ==0 & period==1
