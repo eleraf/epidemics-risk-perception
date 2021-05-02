@@ -8,7 +8,7 @@ The Stringency Index considers 9 domains (school closures; workplace closures;
  of public transport; stay-at-home requirements; public information campaigns; 
  restrictions on internal movements; and international travel controls).
 
-Data access 
+Databases
 
 ECDC. Data on hospital and ICU admission rates and current occupancy for COVID-19, 
 https://www.ecdc.europa.eu/en/publications-data/download-data-hospital-and-icu-admission-rates-and-current-occupancy-covid-19
