@@ -1,5 +1,5 @@
 /*******************************************************************************
-data access
+database
 
 Mondino, E., Di Baldassarre, G., Mård, J. et al. Public perceptions of multiple 
 risks during the COVID-19 pandemic in Italy and Sweden. Sci Data 7, 434 (2020).
