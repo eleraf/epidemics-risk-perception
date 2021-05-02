@@ -88,22 +88,11 @@ label define gender 1 "male" 0 "famale"
 label value gender gender
 
 rename V9_1 epidemics_likelihood
-
-
 rename V19_1 epidemics_impact_ind
-
-
 rename V29_1 epidemics_impact_other
-
-
 rename V49_1 epidemics_prep_aut
-
-
 rename V39_1 epidemics_prep_ind
-
-
 rename V69_1 epidemics_know_aut
-
 rename V59_1 epidemics_know_ind
 
 
@@ -113,7 +102,6 @@ replace `var'=0 if `var'==2
 
 rename V79_1 epidemics_experience
 
-* 5 more than enought
 rename V100 needs
 rename V110 working
 replace working = 0 if working==2
